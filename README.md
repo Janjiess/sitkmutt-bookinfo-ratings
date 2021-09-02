@@ -14,3 +14,4 @@ MIT License
 
 ```bash
 node ratings.js 8080
+```
